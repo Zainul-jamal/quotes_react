@@ -1,0 +1,21 @@
+*{
+    padding: 10px;
+    background-color: antiquewhite;
+    
+}
+.quotes{
+    font-family: 'Georgia' , Arial Narrow Bold;
+    font-size: 20px;
+}
+.rounded-2{
+    font-family:   'Arial Narrow Bold', sans-serif;
+}
+
+/* h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 1px solid blue;
+    border-radius: 40px;
+
+} */
